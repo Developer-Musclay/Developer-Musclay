@@ -4,15 +4,13 @@
 
 Young passionate and ambitious developer, I have the power to improve people's lives through technology.
 
-I build the future, I create applications
-
 <br/>
 
 <strong>What I am learning and working these days :</strong>
-- Spring Boot, Spring Data JPA
-- Angular 7
-- React Native
-- Redux
+- <img height="15" src="https://github.com/Developer-Musclay/Developer-Musclay/blob/master/icons8-logo-de-printemps-50.png"> Spring Boot, Spring Data JPA
+- <img height="15" src="https://github.com/Developer-Musclay/Developer-Musclay/blob/master/icons8-angularjs-50.png"> Angular 7
+- <img height="15" src="https://github.com/Developer-Musclay/Developer-Musclay/blob/master/icons8-react-native-50.png"> React Native
+- <img height="15" src="https://github.com/Developer-Musclay/Developer-Musclay/blob/master/icons8-redux-50.png"> Redux
 
 <br/>
 
